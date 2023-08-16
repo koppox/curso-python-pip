@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    grid-gap: 20px;
+    justify-items: start; /* Alineación a la izquierda */
+  }
+
+  .categoria {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Hace que el elemento sea un círculo */
+    padding: 20px;
+    margin: 10px; /* Margen agregado para evitar superposición */
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #eaeaea; /* Color de fondo */
+    position: relative;
+  }
+
+  .icon-container {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; /* Hace que el elemento sea un círculo */
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    box-shadow: 
+      inset 0 0 0 2px #eaeaea,
+      inset 0 0 0 6px #ffffff,
+      inset 0 0 0 3px #eaeaea; /* Tres sombras para crear el efecto */
+  }
+
+  .nombre-categoria {
+    margin-top: 100px;
+    z-index: 2;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .icono {
+    font-size: 24px;
+  }
+
+  .enlace {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+</style>
+<title>Biblioteca</title>
+</head>
+<body>
+  <h3>Catálogos</h3>
+  <div class="container">
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">☀️</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">Recursos de Información</a>
+      </div>
+    </div>
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">🌙</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">Descubridor PRIMO</a>
+      </div>
+    </div>
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">🌈</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">El Libro Total</a>
+      </div>
+    </div>
+  </div>
+  
+  <h3>Revistas</h3>
+  <div class="container">
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">🌍</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">Académicas y Científicas OJS</a>
+      </div>
+    </div>
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">🌎</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">Impresas por Área</a>
+      </div>
+    </div>
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">🌎</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">Impresas suscritas - Digitales</a>
+      </div>
+    </div>
+  </div>
+  
+  <h3>Guias de uso</h3>
+  <div class="container">
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">📚</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">Zotero</a>
+      </div>
+    </div>
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">✏️</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">Localización</a>
+      </div>
+    </div>
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">🎓</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">Recursos de Información</a>
+      </div>
+    </div>
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">🔍</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">Bases de Datos Bibliográficas</a>
+      </div>
+    </div>
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">🔍</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">Video Tutorial AlphaCloud</a>
+      </div>
+    </div>
+    <div class="categoria">
+      <div class="icon-container">
+        <span class="icono">🔍</span>
+      </div>
+      <div class="nombre-categoria">
+        <a class="enlace" href="#">MyLoft</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
