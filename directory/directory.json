@@ -1,1140 +1,1162 @@
 [
     {
-     "dependencia": "RECTORÍA",
-     "cargo": "RECTORÍA",
-     "nombre": "BLOQUE P31 OFICINA 331",
-     "extension": "315 2489924",
-     "correo": "rectoria@elpoli.edu.co"
+        "dependencia": "RECTORÍA",
+        "cargo": "RECTORÍA",
+        "nombre": "BLOQUE P31 OFICINA 331",
+        "extension": "315 2489924",
+        "correo": "rectoria@elpoli.edu.co"
     },
     {
-     "dependencia": "RECTORÍA",
-     "cargo": "RECTOR",
-     "nombre": "JAIRO ALEXANDER OSORIO SARAZ",
-     "extension": 134,
-     "correo": "rectoria@elpoli.edu.co"
+        "dependencia": "RECTORÍA",
+        "cargo": "Rector",
+        "nombre": "JAIRO ALEXANDER OSORIO SARAZ",
+        "extension": 134,
+        "correo": "rectoria@elpoli.edu.co"
     },
     {
-     "dependencia": "RECTORÍA",
-     "cargo": "ASESORA",
-     "nombre": "ISABEL CRISTINA CARVAJAL ZAPATA",
-     "extension": 216,
-     "correo": "isabelcarvajal@elpoli.edu.co"
+        "dependencia": "RECTORÍA",
+        "cargo": "Asesora",
+        "nombre": "ISABEL CRISTINA CARVAJAL ZAPATA",
+        "extension": 216,
+        "correo": "isabelcarvajal@elpoli.edu.co"
     },
     {
-     "dependencia": "RECTORÍA",
-     "cargo": "SECRETARIA EJECUTIVA",
-     "nombre": "OLGA LUCÍA LLANO YEPES",
-     "extension": 133,
-     "correo": "olllano@elpoli.edu.co"
+        "dependencia": "RECTORÍA",
+        "cargo": "Secretaria Ejecutiva",
+        "nombre": "OLGA LUCÍA LLANO YEPES",
+        "extension": 133,
+        "correo": "olllano@elpoli.edu.co"
     },
     {
-     "dependencia": "RECTORÍA",
-     "cargo": "CONDUCTOR",
-     "nombre": "JORGE WILLIAM TORO ESPINOSA",
-     "extension": 133,
-     "correo": "jwtoro@elpoli.edu.co"
+        "dependencia": "RECTORÍA",
+        "cargo": "Conductor",
+        "nombre": "JORGE WILLIAM TORO ESPINOSA",
+        "extension": 133,
+        "correo": "jwtoro@elpoli.edu.co"
     },
     {
-     "dependencia": "SECRETARÍA GENERAL",
-     "cargo": "SECRETARÍA GENERAL",
-     "nombre": "BLOQUE P31 OFICINA 328",
-     "correo": "sgeneral@elpoli.edu.co"
+        "dependencia": "secretaria_general",
+        "cargo": "SECRETARÍA GENERAL",
+        "nombre": "BLOQUE P31 OFICINA 328",
+        "correo": "sgeneral@elpoli.edu.co"
     },
     {
-     "dependencia": "SECRETARÍA GENERAL",
-     "cargo": "SECRETARIO",
-     "nombre": "JORGE MARIO DURÁN FRANCO",
-     "extension": 162,
-     "correo": "jmduran@elpoli.edu.co"
+        "dependencia": "SECRETARÍA GENERAL",
+        "cargo": "Secretario",
+        "nombre": "JORGE MARIO DURÁN FRANCO",
+        "extension": 162,
+        "correo": "jmduran@elpoli.edu.co"
     },
     {
-     "dependencia": "SECRETARÍA GENERAL",
-     "cargo": "Profesional Universitario",
-     "nombre": "LUIS FERNANDO BALLESTEROS OSORNO",
-     "extension": 174,
-     "correo": "lfballesteros@elpoli.edu.co"
+        "dependencia": "SECRETARÍA GENERAL",
+        "cargo": "Profesional Universitario",
+        "nombre": "LUIS FERNANDO BALLESTEROS OSORNO",
+        "extension": 174,
+        "correo": "lfballesteros@elpoli.edu.co"
     },
     {
-     "dependencia": "SECRETARÍA GENERAL",
-     "cargo": "SECRETARIA EJECUTIVA",
-     "nombre": "ASTRID ELIANA GONZÁLEZ GONZÁLEZ",
-     "correo": "aegonzalez@elpoli.edu.co"
+        "dependencia": "SECRETARÍA GENERAL",
+        "cargo": "Secretaria Ejecutiva",
+        "nombre": "ASTRID ELIANA GONZÁLEZ GONZÁLEZ",
+        "extension": "",
+        "correo": "aegonzalez@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA JURÍDICA",
-     "cargo": "OFICINA ASESORA JURÍDICA",
-     "nombre": "BLOQUE P31 OFICINA 328",
-     "correo": "juridica@elpoli.edu.co"
+        "dependencia": "oficina_asesora_juridica",
+        "cargo": "OFICINA ASESORA JURÍDICA",
+        "nombre": "BLOQUE P31 OFICINA 328",
+        "correo": "juridica@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA JURÍDICA",
-     "cargo": "JEFE OFICINA",
-     "nombre": "OLGA RUTH ZAPATA ZAPATA",
-     "extension": 188,
-     "correo": "olgazapata@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA JURÍDICA",
+        "cargo": "Jefe Oficina",
+        "nombre": "OLGA RUTH ZAPATA ZAPATA",
+        "extension": 188,
+        "correo": "olgazapata@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA JURÍDICA",
-     "cargo": "Profesional Universitario",
-     "nombre": "PAULA CATALINA ESPINOSA UPEGUI",
-     "extension": 162,
-     "correo": "pcespinosa@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA JURÍDICA",
+        "cargo": "Profesional Universitario",
+        "nombre": "PAULA CATALINA ESPINOSA UPEGUI",
+        "extension": 162,
+        "correo": "pcespinosa@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA JURÍDICA",
-     "cargo": "Profesional Universitario",
-     "nombre": "SILVIA CRISTINA ZAPATA LÓPEZ",
-     "correo": "sczapata@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA JURÍDICA",
+        "cargo": "Profesional Universitario",
+        "nombre": "SILVIA CRISTINA ZAPATA LÓPEZ",
+        "extension": "",
+        "correo": "sczapata@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA JURÍDICA",
-     "cargo": "Contratista",
-     "nombre": "LUZ MERCEDES ÁLVAREZ VALENCIA",
-     "extension": 161,
-     "correo": "luzalvarez@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA JURÍDICA",
+        "cargo": "Contratista",
+        "nombre": "LUZ MERCEDES ÁLVAREZ VALENCIA",
+        "extension": 161,
+        "correo": "luzalvarez@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA JURÍDICA",
-     "cargo": "Contratista",
-     "nombre": "STHEFANIA MORALES ZAPATA",
-     "extension": 161,
-     "correo": "sthefania_morales95131@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA JURÍDICA",
+        "cargo": "Contratista",
+        "nombre": "STHEFANIA MORALES ZAPATA",
+        "extension": 161,
+        "correo": "sthefania_morales95131@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA JURÍDICA",
-     "cargo": "Contratista",
-     "nombre": "GRACCE GARCÍA FLORES",
-     "extension": 161,
-     "correo": "graccegarcia@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA JURÍDICA",
+        "cargo": "Contratista",
+        "nombre": "GRACCE GARCÍA FLORES",
+        "extension": 161,
+        "correo": "graccegarcia@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ADQUISICIONES",
-     "cargo": "COORDINACIÓN DE ADQUISICIONES",
-     "nombre": "BLOQUE P31 OFICINA 325",
-     "correo": "adquisiciones@elpoli.edu.co"
+        "dependencia": "Coordinacion_de_adquisiciones",
+        "cargo": "COORDINACIÓN DE ADQUISICIONES",
+        "nombre": "BLOQUE P31 OFICINA 325",
+        "correo": "adquisiciones@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ADQUISICIONES",
-     "cargo": "Profesional Especializado",
-     "nombre": "CESAR AUGUSTO CARMONA TORO",
-     "extension": 140,
-     "correo": "cacarmona@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ADQUISICIONES",
+        "cargo": "Profesional Especializado",
+        "nombre": "CESAR AUGUSTO CARMONA TORO",
+        "extension": 140,
+        "correo": "cacarmona@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ADQUISICIONES",
-     "cargo": "Profesional Universitario",
-     "nombre": "SOL BEATRIZ MARÍN PIEDRAHÍTA",
-     "extension": 385,
-     "correo": "sbmarin@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ADQUISICIONES",
+        "cargo": "Profesional Universitario",
+        "nombre": "SOL BEATRIZ MARÍN PIEDRAHÍTA",
+        "extension": 385,
+        "correo": "sbmarin@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ADQUISICIONES",
-     "cargo": "Profesional Universitario",
-     "nombre": "CATALINA GÓMEZ DURANGO",
-     "extension": 152,
-     "correo": "catalinagomezd@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ADQUISICIONES",
+        "cargo": "Profesional Universitario",
+        "nombre": "CATALINA GÓMEZ DURANGO",
+        "extension": 152,
+        "correo": "catalinagomezd@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ADQUISICIONES",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "OLIS ELENA GÓEZ",
-     "extension": 114,
-     "correo": "oegoezo@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ADQUISICIONES",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "OLIS ELENA GÓEZ",
+        "extension": 114,
+        "correo": "oegoezo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ADQUISICIONES",
-     "cargo": "AUXILIAR  DE SERVICIOS GENERALES",
-     "nombre": "ANA CATALINA ÁLVAREZ GONZÁLEZ",
-     "extension": 114,
-     "correo": "acalvarez@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ADQUISICIONES",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "ANA CATALINA ÁLVAREZ GONZÁLEZ",
+        "extension": 114,
+        "correo": "acalvarez@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ADQUISICIONES",
-     "cargo": "Auxiliar Administrativo (E)",
-     "nombre": "NIDIA NORA LÓPEZ BEDOYA",
-     "extension": 152,
-     "correo": "nnlopez@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ADQUISICIONES",
+        "cargo": "Auxiliar Administrativo (E)",
+        "nombre": "NIDIA NORA LÓPEZ BEDOYA",
+        "extension": 152,
+        "correo": "nnlopez@elpoli.edu.co"
     },
     {
-     "dependencia": "coordinacion_de_archivo_y_correspondencia",
-     "cargo": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
-     "nombre": "BLOQUE P56 OFICINA 101",
-     "correo": "archivo@elpoli.edu.co"
+        "dependencia": "coordinacion_de_archivo_y_correspondencia",
+        "cargo": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
+        "nombre": "BLOQUE P56 OFICINA 101",
+        "correo": "archivo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
-     "cargo": "Profesional Especializado",
-     "nombre": "BLANCA LUDIVIA VARGAS VARGAS",
-     "extension": 359,
-     "correo": "blvargas@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
+        "cargo": "Profesional Especializado",
+        "nombre": "BLANCA LUDIVIA VARGAS VARGAS",
+        "extension": 359,
+        "correo": "blvargas@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
-     "cargo": "Técnico Administrativo",
-     "nombre": "ANDRÉS GREGORIO RESTREPO JARAMILLO",
-     "extension": 258,
-     "correo": "agrestrepo@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
+        "cargo": "Profesional Especializado",
+        "nombre": "AURA MARCELA MESA PULGARÍN",
+        "extension": 258,
+        "correo": "ammesa@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "SONIA DEL CARMEN DAZA MARTÍNEZ",
-     "extension": 185,
-     "correo": "scdaza@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
+        "cargo": "Técnico Administrativo",
+        "nombre": "ANDRÉS GREGORIO RESTREPO JARAMILLO",
+        "extension": 258,
+        "correo": "agrestrepo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "HERMAN DE JESUS MARTÍNEZ MOLINA",
-     "extension": 185,
-     "correo": "hjmartinez@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "SONIA DEL CARMEN DAZA MARTÍNEZ",
+        "extension": 185,
+        "correo": "scdaza@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "SOR MARÍA AGUDELO AGUDELO",
-     "extension": 185,
-     "correo": "soragudelo@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "HERMAN DE JESUS MARTÍNEZ MOLINA",
+        "extension": 185,
+        "correo": "hjmartinez@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
-     "cargo": "Contratista",
-     "nombre": "ROBINSON ANDRÉS MONTOYA GUERRA",
-     "extension": 185,
-     "correo": "robinsonmontoya@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "SOR MARÍA AGUDELO AGUDELO",
+        "extension": 185,
+        "correo": "soragudelo@elpoli.edu.co"
     },
     {
-     "dependencia": "oficina_asesora_de_comunicaciones",
-     "cargo": "OFICINA ASESORA DE COMUNICACIONES",
-     "nombre": "BLOQUE P31 OFICINA 319-B",
-     "correo": "comunicaciones@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE ARCHIVO Y CORRESPONDENCIA",
+        "cargo": "Contratista",
+        "nombre": "ROBINSON ANDRÉS MONTOYA GUERRA",
+        "extension": 185,
+        "correo": "robinsonmontoya@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "Jefe de Oficina",
-     "nombre": "JENY ALEJANDRA AGUDELO URREGO",
-     "extension": 121,
-     "correo": "alejandraagudelo@elpoli.edu.co"
+        "dependencia": "oficina_Asesora_de_comunicaciones",
+        "cargo": "OFICINA ASESORA DE COMUNICACIONES",
+        "nombre": "BLOQUE P31 OFICINA 319-B",
+        "correo": "comunicaciones@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "LUIS FERNANDO AGUDELO ZAPATA",
-     "extension": 149,
-     "correo": "lfagudelo@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "Jefe de Oficina",
+        "nombre": "ISABEL CRISTINA CARVAJAL ZAPATA (E)",
+        "extension": 121,
+        "correo": "isabelcarvajal@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "MARÍA AMALIA HURTADO ALZATE",
-     "extension": 149,
-     "correo": "mahurtado@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "LUIS FERNANDO AGUDELO ZAPATA",
+        "extension": 149,
+        "correo": "lfagudelo@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "Profesional Universitario",
-     "nombre": "GIOVANNI FIGUEROA JIMÉNEZ",
-     "extension": 149,
-     "correo": "gfigueroa@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "MARÍA AMALIA HURTADO ALZATE",
+        "extension": 149,
+        "correo": "mahurtado@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "Contratista DISEÑADORA",
-     "nombre": "ANA MILÉ MUÑOZ CLAROS",
-     "extension": 149,
-     "correo": "ana_munoz20142@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "Profesional Universitario",
+        "nombre": "GIOVANNI FIGUEROA JIMÉNEZ",
+        "extension": 149,
+        "correo": "gfigueroa@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "Contratista AUDIOVISUALES",
-     "nombre": "JUAN SEBASTIAN GONZALEZ ARTEAGA",
-     "extension": 149,
-     "correo": "juan_gonzalez82191@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "Contratista DISEÑADORA",
+        "nombre": "ANA MILÉ MUÑOZ CLAROS",
+        "extension": 149,
+        "correo": "ana_munoz20142@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "Contratista",
-     "nombre": "MARÍA ELENA PALACIO LEMOS",
-     "extension": 149,
-     "correo": "mariaepalacio@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "Contratista AUDIOVISUALES",
+        "nombre": "JUAN SEBASTIAN GONZALEZ ARTEAGA",
+        "extension": 149,
+        "correo": "juan_gonzalez82191@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "Contratista ADMINISTRADOR WEB",
-     "nombre": "EDWIN ALEXANDER RUIZ BETANCUR",
-     "extension": 149,
-     "correo": "webmaster@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "Contratista",
+        "nombre": "MARÍA ELENA PALACIO LEMOS",
+        "extension": 149,
+        "correo": "mariaepalacio@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "PABLO ANTONIO GIRALDO",
-     "extension": 201,
-     "correo": "pagiraldo@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "Contratista ADMINISTRADOR WEB",
+        "nombre": "EDWIN ALEXANDER RUIZ BETANCUR",
+        "extension": 149,
+        "correo": "webmaster@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "AUDITORIO",
-     "nombre": "FERNANDO GÓMEZ MARTÍNEZ",
-     "extension": 201,
-     "correo": "auditorio@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "PABLO ANTONIO GIRALDO",
+        "extension": 201,
+        "correo": "pagiraldo@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
-     "cargo": "RELACIONAMIENTO CON EL CIUDADANO",
-     "nombre": " BLOQUE P31 OFICINA 217     |     (+57 4) 444 76 54 - (+57 4) 319 79 00",
-     "extension": "300 712 46 70",
-     "correo": "atencionalciudadano@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "AUDITORIO",
+        "nombre": "FERNANDO GÓMEZ MARTÍNEZ",
+        "extension": 201,
+        "correo": "auditorio@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
-     "cargo": "DIRECCIÓN DE CONTROL INTERNO",
-     "nombre": "BLOQUE P31 OFICINA 210",
-     "correo": "controli@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE COMUNICACIONES",
+        "cargo": "RELACIONAMIENTO CON EL CIUDADANO",
+        "nombre": " BLOQUE P31 OFICINA 217 | (+57 4) 444 76 54 - (+57 4) 319 79 00",
+        "extension": "300 712 46 70",
+        "correo": "atencionalciudadano@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
-     "cargo": "Directora",
-     "nombre": "FLORA JIMÉNEZ MARÍN",
-     "extension": 292,
-     "correo": "fjimenez@elpoli.edu.co"
+        "dependencia": "direccion_de_control_interno",
+        "cargo": "DIRECCIÓN DE CONTROL INTERNO",
+        "nombre": "BLOQUE P31 OFICINA 210",
+        "correo": "controli@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "SANDRA MARCELA LONDOÑO MONCADA",
-     "extension": 119,
-     "correo": "smlondono@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
+        "cargo": "Directora",
+        "nombre": "FLORA JIMÉNEZ MARÍN",
+        "extension": 292,
+        "correo": "fjimenez@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
-     "cargo": "Profesional Especializado",
-     "nombre": "NATALIA PATRICIA SIERRA PALACIO",
-     "extension": 119,
-     "correo": "npsierra@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "SANDRA MARCELA LONDOÑO MONCADA",
+        "extension": 119,
+        "correo": "smlondono@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
-     "cargo": "Profesional Universitario",
-     "nombre": "MARIA ZINETH VILLA CORREA",
-     "extension": 119,
-     "correo": "mzvilla@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
+        "cargo": "Profesional Especializado",
+        "nombre": "NATALIA PATRICIA SIERRA PALACIO",
+        "extension": 119,
+        "correo": "npsierra@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
-     "cargo": "Profesional Universitario",
-     "nombre": "LUIS ALFONSO VALENCIA AGUDELO",
-     "extension": 119,
-     "correo": "lavalencia@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
+        "cargo": "Profesional Universitario",
+        "nombre": "MARIA ZINETH VILLA CORREA",
+        "extension": 119,
+        "correo": "mzvilla@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
-     "cargo": "OFICINA ASESORA DE PLANEACIÓN",
-     "nombre": "BLOQUE P31 OFICINA 324",
-     "correo": "planeacion@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE CONTROL INTERNO",
+        "cargo": "Profesional Universitario",
+        "nombre": "LUIS ALFONSO VALENCIA AGUDELO",
+        "extension": 119,
+        "correo": "lavalencia@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
-     "cargo": "Jefe de Oficina",
-     "nombre": "ANTONIO DE JESÚS CASTAÑO GONZÁLEZ",
-     "extension": 120,
-     "correo": "ajcastano@elpoli.edu.co"
+        "dependencia": "oficina_asesora_de_planeacion",
+        "cargo": "OFICINA Asesora DE PLANEACIÓN",
+        "nombre": "BLOQUE P31 OFICINA 324",
+        "correo": "planeacion@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "CRISTHER PAMELA ESCOBAR GUZMÁN",
-     "extension": 156,
-     "correo": "cpescobar@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
+        "cargo": "Jefe de Oficina",
+        "nombre": "ANTONIO DE JESÚS CASTAÑO GONZÁLEZ",
+        "extension": 120,
+        "correo": "ajcastano@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
-     "cargo": "Profesional Especializado",
-     "nombre": "MARGARITA MARÍA TAMAYO ARANGO",
-     "extension": 330,
-     "correo": "mmtamayo@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "CRISTHER PAMELA ESCOBAR GUZMÁN",
+        "extension": 156,
+        "correo": "cpescobar@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
-     "cargo": "Profesional Universitario",
-     "nombre": "JOHN JAIRO CÓRDOBA PARRA",
-     "extension": 429,
-     "correo": "johncordoba@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
+        "cargo": "Profesional Especializado",
+        "nombre": "MARGARITA MARÍA TAMAYO ARANGO",
+        "extension": 330,
+        "correo": "mmtamayo@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
-     "cargo": "Contratista",
-     "nombre": "SWANLLY JHINETH ROJO VARGAS",
-     "extension": 429,
-     "correo": "swanlly_rojo92103@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
+        "cargo": "Profesional Universitario",
+        "nombre": "JOHN JAIRO CÓRDOBA PARRA",
+        "extension": 429,
+        "correo": "johncordoba@elpoli.edu.co"
     },
     {
-     "dependencia": "CONTROL DISCIPLINARIO",
-     "cargo": "CONTROL DISCIPLINARIO",
-     "nombre": "BLOQUE P31 OFICINA 306",
-     "correo": "cdinterno@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
+        "cargo": "Contratista",
+        "nombre": "SWANLLY JHINETH ROJO VARGAS",
+        "extension": 429,
+        "correo": "swanlly_rojo92103@elpoli.edu.co"
     },
     {
-     "dependencia": "CONTROL DISCIPLINARIO",
-     "cargo": "Jefe de Oficina (E)",
-     "nombre": "FABIO LEÓN VELÁSQUEZ SUÁREZ",
-     "extension": 188,
-     "correo": "flvelasquez@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
+        "cargo": "Contratista",
+        "nombre": "SANTIAGO CRUZ ORTIZ",
+        "extension": "",
+        "correo": "santiagocruz@elpoli.edu.co"
     },
     {
-     "dependencia": "CONTROL DISCIPLINARIO",
-     "cargo": "Profesional Universitario",
-     "nombre": "EDITH PESCADOR TREJOS",
-     "extension": 364,
-     "correo": "epescador@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
+        "cargo": "Contratista",
+        "nombre": "Diana María Zapata",
+        "extension": 429,
+        "correo": "infraestructura@elpoli.edu.co <br> dianazapata@elpoli.edu.co"
     },
     {
-     "dependencia": "CONTROL DISCIPLINARIO",
-     "cargo": "Contratista",
-     "nombre": "MELISSA ANDREA GÓMEZ AGUDELO",
-     "extension": 364,
-     "correo": "melissagomez@elpoli.edu.co"
+        "dependencia": "OFICINA ASESORA DE PLANEACIÓN",
+        "cargo": "Contratista",
+        "nombre": "Santiago Cañola",
+        "extension": 429,
+        "correo": "santiago_canola95162@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA ADMINISTRATIVA",
-     "cargo": "VICERRECTORÍA ADMINISTRATIVA",
-     "nombre": "BLOQUE P31 OFICINA 311",
-     "extension": "319 79 00",
-     "correo": "vadministrativa@elpoli.edu.co"
+        "dependencia": "control_disciplinario",
+        "cargo": "CONTROL DISCIPLINARIO",
+        "nombre": "BLOQUE P31 OFICINA 306",
+        "correo": "cdinterno@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA ADMINISTRATIVA",
-     "cargo": "Vicerrector",
-     "nombre": "OSCAR ALBERTO GAVIRIA PALACIO",
-     "extension": 171,
-     "correo": "oagaviria@elpoli.edu.co"
+        "dependencia": "CONTROL DISCIPLINARIO",
+        "cargo": "Jefe de Oficina (E)",
+        "nombre": "FABIO LEÓN VELÁSQUEZ SUÁREZ",
+        "extension": 188,
+        "correo": "flvelasquez@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA ADMINISTRATIVA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "FRANCY YANETH RUDA PÉREZ",
-     "extension": 166,
-     "correo": "fyruda@elpoli.edu.co"
+        "dependencia": "CONTROL DISCIPLINARIO",
+        "cargo": "Profesional Universitario",
+        "nombre": "EDITH PESCADOR TREJOS",
+        "extension": 364,
+        "correo": "epescador@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA ADMINISTRATIVA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "MARÍA PAULA ARBELAEZ FLOREZ",
-     "extension": 166,
-     "correo": "mparbelaez@elpoli.edu.co"
+        "dependencia": "CONTROL DISCIPLINARIO",
+        "cargo": "Contratista",
+        "nombre": "MELISSA ANDREA GÓMEZ AGUDELO",
+        "extension": 364,
+        "correo": "melissagomez@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN FINANCIERA",
-     "cargo": "DIRECCIÓN FINANCIERA",
-     "nombre": "BLOQUE P31 OFICINA 208",
-     "extension": "302 4377636",
-     "correo": "financiera@elpoli.edu.co"
+        "dependencia": "vicerrectoria_administrativa",
+        "cargo": "VICERRECTORÍA ADMINISTRATIVA",
+        "nombre": "BLOQUE P31 OFICINA 311",
+        "extension": "319 79 00",
+        "correo": "vadministrativa@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN FINANCIERA",
-     "cargo": "DIRECTOR",
-     "nombre": "CLAUDIA CRISTINA VANEGAS ESCOBAR",
-     "extension": 123,
-     "correo": "ccvanegas@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA ADMINISTRATIVA",
+        "cargo": "Vicerrector",
+        "nombre": "OSCAR ALBERTO GAVIRIA PALACIO",
+        "extension": 171,
+        "correo": "oagaviria@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN FINANCIERA",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "IBETH HURTADO MUÑOZ",
-     "extension": 125,
-     "correo": "yhurtado@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA ADMINISTRATIVA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "FRANCY YANETH RUDA PÉREZ",
+        "extension": 166,
+        "correo": "fyruda@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN FINANCIERA",
-     "cargo": "Profesional Universitario",
-     "nombre": "CESAR IVÁN PORTOCARRERO SIERRA",
-     "extension": 284,
-     "correo": "ciportocarrero@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA ADMINISTRATIVA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "MARÍA PAULA ARBELAEZ FLOREZ",
+        "extension": 166,
+        "correo": "mparbelaez@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN FINANCIERA",
-     "cargo": "Profesional Universitario",
-     "nombre": "JUAN DIEGO VANEGAS VALENCIA",
-     "correo": "jdvanegas@elpoli.edu.co"
+        "dependencia": "direccion_financiera",
+        "cargo": "DIRECCIÓN FINANCIERA",
+        "nombre": "BLOQUE P31 OFICINA 208",
+        "extension": "302 4377636",
+        "correo": "financiera@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN FINANCIERA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "MONICA MARÍA DIOSA CHAVARRIAGA",
-     "extension": 403,
-     "correo": "mmdiosa@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN FINANCIERA",
+        "cargo": "DIRECTOR",
+        "nombre": "CLAUDIA CRISTINA VANEGAS ESCOBAR",
+        "extension": 123,
+        "correo": "ccvanegas@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN FINANCIERA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "GAMALIEL EUSEBIO JARAMILLO COGOLLO",
-     "correo": "gejaramillo@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN FINANCIERA",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "IBETH HURTADO MUÑOZ",
+        "extension": 125,
+        "correo": "yhurtado@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA DE COSTEO Y FACTURACIÓN",
-     "cargo": "OFICINA DE COSTEO Y FACTURACIÓN",
-     "nombre": "BLOQUE P31 OFICINA 208",
-     "extension": "302 4348314"
+        "dependencia": "DIRECCIÓN FINANCIERA",
+        "cargo": "Profesional Universitario",
+        "nombre": "CESAR IVÁN PORTOCARRERO SIERRA",
+        "extension": 284,
+        "correo": "ciportocarrero@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA DE COSTEO Y FACTURACIÓN",
-     "cargo": "Profesional Universitario  ",
-     "nombre": "ANDRÉS FELIPE MEJÍA RESTREPO        ",
-     "extension": 163,
-     "correo": "afmejia@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN FINANCIERA",
+        "cargo": "Profesional Universitario",
+        "nombre": "JUAN DIEGO VANEGAS VALENCIA",
+        "correo": "jdvanegas@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA DE COSTEO Y FACTURACIÓN",
-     "cargo": "Auxiliar Administrativo (E)",
-     "nombre": "NUBIA DEL SOCORRO SÁNCHEZ ZEA  ",
-     "extension": 444,
-     "correo": "nssanchez@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN FINANCIERA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "MONICA MARÍA DIOSA CHAVARRIAGA",
+        "extension": 403,
+        "correo": "mmdiosa@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA DE COSTEO Y FACTURACIÓN",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "LILIANA ANDREA MONTOYA",
-     "extension": 444,
-     "correo": "lamontoya@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN FINANCIERA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "GAMALIEL EUSEBIO JARAMILLO COGOLLO",
+        "correo": "gejaramillo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE TESORERÍA",
-     "cargo": "COORDINACIÓN DE TESORERÍA",
-     "nombre": "BLOQUE P31 OFICINA 208",
-     "correo": "tesoreria@elpoli.edu.co"
+        "dependencia": "oficina_de_costeo_y_facturacion",
+        "cargo": "OFICINA DE COSTEO Y FACTURACIÓN",
+        "nombre": "BLOQUE P31 OFICINA 208",
+        "extension": "302 4348314"
     },
     {
-     "dependencia": "COORDINACIÓN DE TESORERÍA",
-     "cargo": "Profesional Especializado",
-     "nombre": "FREDY OSWALDO RODRÍGUEZ HENAO",
-     "extension": 131,
-     "correo": "forodriguez@elpoli.edu.co"
+        "dependencia": "OFICINA DE COSTEO Y FACTURACIÓN",
+        "cargo": "Profesional Universitario  ",
+        "nombre": "ANDRÉS FELIPE MEJÍA RESTREPO        ",
+        "extension": 163,
+        "correo": "afmejia@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE TESORERÍA",
-     "cargo": "Profesional Universitario",
-     "nombre": "LILIANA PATRICIA GRANADOS ESTRADA",
-     "correo": "lpgranados@elpoli.edu.co"
+        "dependencia": "OFICINA DE COSTEO Y FACTURACIÓN",
+        "cargo": "Auxiliar Administrativo (E)",
+        "nombre": "NUBIA DEL SOCORRO SÁNCHEZ ZEA  ",
+        "extension": 444,
+        "correo": "nssanchez@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE TESORERÍA",
-     "cargo": "TÉCNICO ADMINISTRATIVA",
-     "nombre": "MARTA SOEL VÉLEZ QUINTANA",
-     "extension": 249,
-     "correo": "msvelez@elpoli.edu.co"
+        "dependencia": "OFICINA DE COSTEO Y FACTURACIÓN",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "LILIANA ANDREA MONTOYA",
+        "extension": 444,
+        "correo": "lamontoya@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE TESORERÍA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "JULIANA ARCILA ÁLVAREZ",
-     "extension": 130,
-     "correo": "juliana_arcila90171@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE TESORERÍA",
+        "cargo": "COORDINACIÓN DE TESORERÍA",
+        "nombre": "BLOQUE P31 OFICINA 208",
+        "correo": "tesoreria@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE TESORERÍA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "LAURA CAROLINA FRANCO MEJÍA",
-     "extension": 130
+        "dependencia": "COORDINACIÓN DE TESORERÍA",
+        "cargo": "Profesional Especializado",
+        "nombre": "FREDY OSWALDO RODRÍGUEZ HENAO",
+        "extension": 131,
+        "correo": "forodriguez@elpoli.edu.co"
     },
     {
-     "dependencia": "PRESUPUESTO",
-     "cargo": "PRESUPUESTO",
-     "nombre": "BLOQUE P31 OFICINA 208",
-     "correo": "presupuesto@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE TESORERÍA",
+        "cargo": "Profesional Universitario",
+        "nombre": "LILIANA PATRICIA GRANADOS ESTRADA",
+        "correo": "lpgranados@elpoli.edu.co"
     },
     {
-     "dependencia": "PRESUPUESTO",
-     "cargo": "Profesional Especializado",
-     "nombre": "FERNANDO LEÓN CASTAÑO ZULETA",
-     "extension": 146,
-     "correo": "flcastano@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE TESORERÍA",
+        "cargo": "TÉCNICO ADMINISTRATIVA",
+        "nombre": "MARTA SOEL VÉLEZ QUINTANA",
+        "extension": 249,
+        "correo": "msvelez@elpoli.edu.co"
     },
     {
-     "dependencia": "PRESUPUESTO",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "MARLY ANDREA GÓMEZ CANO",
-     "extension": 293,
-     "correo": "marly_gomez03091@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE TESORERÍA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "JULIANA ARCILA ÁLVAREZ",
+        "extension": 130,
+        "correo": "juliana_arcila90171@elpoli.edu.co"
     },
     {
-     "dependencia": "CONTABILIDAD",
-     "cargo": "CONTABILIDAD",
-     "nombre": "BLOQUE P31 OFICINA 208",
-     "correo": "contabilidad@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE TESORERÍA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "LAURA CAROLINA FRANCO MEJÍA",
+        "extension": 130
     },
     {
-     "dependencia": "CONTABILIDAD",
-     "cargo": "Profesional Especializado",
-     "nombre": "GLORIA EDITH BACCA TEJADA",
-     "extension": 145,
-     "correo": "gebacca@elpoli.edu.co"
+        "dependencia": "PRESUPUESTO",
+        "cargo": "PRESUPUESTO",
+        "nombre": "BLOQUE P31 OFICINA 208",
+        "correo": "presupuesto@elpoli.edu.co"
     },
     {
-     "dependencia": "CONTABILIDAD",
-     "cargo": "Técnico Administrativo",
-     "nombre": "JAVIER COSSIO VELÁZQUEZ",
-     "extension": 386,
-     "correo": "ljcossio@elpoli.edu.co"
+        "dependencia": "PRESUPUESTO",
+        "cargo": "Profesional Especializado",
+        "nombre": "FERNANDO LEÓN CASTAÑO ZULETA",
+        "extension": 146,
+        "correo": "flcastano@elpoli.edu.co"
     },
     {
-     "dependencia": "CONTABILIDAD",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "ANA MARÍA TORO PALACIO",
-     "extension": 386
+        "dependencia": "PRESUPUESTO",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "MARLY ANDREA GÓMEZ CANO",
+        "extension": 293,
+        "correo": "marly_gomez03091@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "nombre": "BLOQUE P31 OFICINA 213",
-     "extension": "302 3650477",
-     "correo": "gestionh@elpoli.edu.co"
+        "dependencia": "CONTABILIDAD",
+        "cargo": "CONTABILIDAD",
+        "nombre": "BLOQUE P31 OFICINA 208",
+        "correo": "contabilidad@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Directora",
-     "nombre": "MARÍA DIONI MEDINA MUÑOZ",
-     "extension": 127,
-     "correo": "mariamedina@elpoli.edu.co"
+        "dependencia": "CONTABILIDAD",
+        "cargo": "Profesional Especializado",
+        "nombre": "GLORIA EDITH BACCA TEJADA",
+        "extension": 145,
+        "correo": "gebacca@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "OLGA CECILIA DIAZ HOYOS",
-     "extension": 128,
-     "correo": "ocdiaz@elpoli.edu.co"
+        "dependencia": "CONTABILIDAD",
+        "cargo": "Técnico Administrativo",
+        "nombre": "JAVIER COSSIO VELÁZQUEZ",
+        "extension": 386,
+        "correo": "ljcossio@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Técnico Administrativo",
-     "nombre": "MARGARITA MARÍA RESTREPO MONSALVE",
-     "extension": 250,
-     "correo": "mmrestrepo@elpoli.edu.co"
+        "dependencia": "CONTABILIDAD",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "ANA MARÍA TORO PALACIO",
+        "extension": 386
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Profesional Especializado",
-     "nombre": "CARLOS MARIO CARDONA RÍOS",
-     "extension": 302,
-     "correo": "cmcardona@elpoli.edu.co"
+        "dependencia": "direccion_de_gestion_humana",
+        "cargo": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "nombre": "BLOQUE P31 OFICINA 213",
+        "extension": "302 3650477",
+        "correo": "gestionh@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Profesional Universitario",
-     "nombre": "MÓNICA MARÍA ARENAS MONTOYA",
-     "extension": 118,
-     "correo": "mmarenasm@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Directora",
+        "nombre": "MARÍA DIONI MEDINA MUÑOZ",
+        "extension": 127,
+        "correo": "mariamedina@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Profesional Universitario",
-     "nombre": "GUSTAVO EDUARDO MOLINA CHICA",
-     "extension": 303,
-     "correo": "gemolina@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "OLGA CECILIA DIAZ HOYOS",
+        "extension": 128,
+        "correo": "ocdiaz@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Profesional Universitario",
-     "nombre": "ORLY GÓMEZ SUAREZ",
-     "correo": "ogomez@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Técnico Administrativo",
+        "nombre": "MARGARITA MARÍA RESTREPO MONSALVE",
+        "extension": 250,
+        "correo": "mmrestrepo@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Profesional Universitario",
-     "nombre": "SUSANA HERRERA MIRA",
-     "extension": 274,
-     "correo": "susanamira@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Profesional Especializado",
+        "nombre": "CARLOS MARIO CARDONA RÍOS",
+        "extension": 302,
+        "correo": "cmcardona@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Técnico Administrativo",
-     "nombre": "PAULA ANDREA RAMÍREZ RODRÍGUEZ",
-     "correo": "paramirez@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Profesional Universitario",
+        "nombre": "MÓNICA MARÍA ARENAS MONTOYA",
+        "extension": 118,
+        "correo": "mmarenasm@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "MARCELA ANDREA SANTACRUZ VALENCIA",
-     "extension": 432,
-     "correo": "masantacruz@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Profesional Universitario",
+        "nombre": "GUSTAVO EDUARDO MOLINA CHICA",
+        "extension": 303,
+        "correo": "gemolina@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "GUSTAVO LEÓN RAMÍREZ GALLEGO",
-     "extension": 363,
-     "correo": "glramirez@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Profesional Universitario",
+        "nombre": "ORLY GÓMEZ SUAREZ",
+        "correo": "ogomez@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "ANA FRANCISCA MEZA QUINTERO",
-     "extension": 363,
-     "correo": "afmeza@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Profesional Universitario",
+        "nombre": "SUSANA HERRERA MIRA",
+        "extension": 274,
+        "correo": "susanamira@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "OLGA JACKELINE TRUJILLO RODRÍGUEZ",
-     "extension": 363,
-     "correo": "ojtrujillo@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Técnico Administrativo",
+        "nombre": "PAULA ANDREA RAMÍREZ RODRÍGUEZ",
+        "correo": "paramirez@elpoli.edu.co"
     },
     {
-     "dependencia": "DESARROLLO LABORAL",
-     "cargo": "DESARROLLO LABORAL",
-     "nombre": "BLOQUE P31 OFICINA 213",
-     "correo": "dlaboral@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "MARCELA ANDREA SANTACRUZ VALENCIA",
+        "extension": 432,
+        "correo": "masantacruz@elpoli.edu.co"
     },
     {
-     "dependencia": "DESARROLLO LABORAL",
-     "cargo": "Profesional Especializado",
-     "nombre": "LUIS FERNANDO GALVÁN GÓMEZ",
-     "extension": 431,
-     "correo": "luisgalvan@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "GUSTAVO LEÓN RAMÍREZ GALLEGO",
+        "extension": 363,
+        "correo": "glramirez@elpoli.edu.co"
     },
     {
-     "dependencia": "DESARROLLO LABORAL",
-     "cargo": "Técnico Administrativo",
-     "nombre": "DIANA MARÍA SALDARRIAGA COLORADO",
-     "extension": 431,
-     "correo": "diana_saldarriaga03152@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "ANA FRANCISCA MEZA QUINTERO",
+        "extension": 363,
+        "correo": "afmeza@elpoli.edu.co"
     },
     {
-     "dependencia": "DESARROLLO LABORAL",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "ISABELA AMARILES QUICENO",
-     "extension": 431,
-     "correo": "isabelaamariles@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "OLGA JACKELINE TRUJILLO RODRÍGUEZ",
+        "extension": 363,
+        "correo": "ojtrujillo@elpoli.edu.co"
     },
     {
-     "dependencia": "SALUD OCUPACIONAL",
-     "cargo": "SALUD OCUPACIONAL",
-     "nombre": "BLOQUE P42 OFICINA 105",
-     "extension": 276,
-     "correo": "seguridadysalud@elpoli.edu.co"
+        "dependencia": "desarrollo_laboral",
+        "cargo": "DESARROLLO LABORAL",
+        "nombre": "BLOQUE P31 OFICINA 213",
+        "correo": "dlaboral@elpoli.edu.co"
     },
     {
-     "dependencia": "SALUD OCUPACIONAL",
-     "cargo": "MÉDICO",
-     "nombre": "LUIS NORBERTO GONZÁLEZ CASTRILLÓN",
-     "extension": 354,
-     "correo": "lngonzalez@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Profesional Especializado",
+        "nombre": "LUIS FERNANDO GALVÁN GÓMEZ",
+        "extension": 431,
+        "correo": "luisgalvan@elpoli.edu.co"
     },
     {
-     "dependencia": "SALUD OCUPACIONAL",
-     "cargo": "AUXILIAR AREA DE LA SALUD",
-     "nombre": "CRISTINA TOBÓN TOBÓN",
-     "extension": 354,
-     "correo": "ctobon@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Técnico Administrativo",
+        "nombre": "DIANA MARÍA SALDARRIAGA COLORADO",
+        "extension": 431,
+        "correo": "diana_saldarriaga03152@elpoli.edu.co"
     },
     {
-     "dependencia": "SALUD OCUPACIONAL",
-     "cargo": "AUXILIAR AREA DE LA SALUD",
-     "nombre": "MARIAM ANDREA SÁNCHEZ GÓMEZ",
-     "extension": 354,
-     "correo": "masanchez@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GESTIÓN HUMANA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "ISABELA AMARILES QUICENO",
+        "extension": 431,
+        "correo": "isabelaamariles@elpoli.edu.co"
     },
     {
-     "dependencia": "SALUD OCUPACIONAL",
-     "cargo": "AUXILIAR AREA DE LA SALUD",
-     "nombre": "DOUGLAS PENAGOS HERNÁNDEZ",
-     "extension": 354,
-     "correo": "dpenagos@elpoli.edu.co"
+        "dependencia": "SALUD OCUPACIONAL",
+        "cargo": "SALUD OCUPACIONAL",
+        "nombre": "BLOQUE P42 OFICINA 105",
+        "extension": 276,
+        "correo": "seguridadysalud@elpoli.edu.co"
     },
     {
-     "dependencia": "SALUD OCUPACIONAL",
-     "cargo": "ASESOR COLMENA",
-     "nombre": "IVAN EDUARDO DIAZ GUTIERREZ ",
-     "extension": 354,
-     "correo": "idiaz@fs.co"
+        "dependencia": "SALUD OCUPACIONAL",
+        "cargo": "MÉDICO",
+        "nombre": "LUIS NORBERTO GONZÁLEZ CASTRILLÓN",
+        "extension": 354,
+        "correo": "lngonzalez@elpoli.edu.co"
     },
     {
-     "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
-     "cargo": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
-     "nombre": "BLOQUE P40 OFICINA 504",
-     "correo": "bienestar@elpoli.edu.co"
+        "dependencia": "SALUD OCUPACIONAL",
+        "cargo": "AUXILIAR AREA DE LA SALUD",
+        "nombre": "CRISTINA TOBÓN TOBÓN",
+        "extension": 354,
+        "correo": "ctobon@elpoli.edu.co"
     },
     {
-     "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
-     "cargo": "Directora",
-     "nombre": "BEATRIZ ELENA VILLA CANO",
-     "correo": "bevilla@elpoli.edu.co"
+        "dependencia": "SALUD OCUPACIONAL",
+        "cargo": "AUXILIAR AREA DE LA SALUD",
+        "nombre": "MARIAM ANDREA SÁNCHEZ GÓMEZ",
+        "extension": 354,
+        "correo": "masanchez@elpoli.edu.co"
     },
     {
-     "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
-     "cargo": "Profesional Universitario",
-     "nombre": "NATALIA LUCÍA CANCHILA ESPINOSA",
-     "correo": "nlcanchila@elpoli.edu.co"
+        "dependencia": "SALUD OCUPACIONAL",
+        "cargo": "AUXILIAR AREA DE LA SALUD",
+        "nombre": "DOUGLAS PENAGOS HERNÁNDEZ",
+        "extension": 354,
+        "correo": "dpenagos@elpoli.edu.co"
     },
     {
-     "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "ASTRID LORENA GUTIÉRREZ PALACIO",
-     "correo": "algutierrez@elpoli.edu.co"
+        "dependencia": "SALUD OCUPACIONAL",
+        "cargo": "Asesor COLMENA",
+        "nombre": "IVAN EDUARDO DIAZ GUTIERREZ ",
+        "extension": 354,
+        "correo": "idiaz@fs.co"
     },
     {
-     "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
-     "cargo": "Técnico Administrativo",
-     "nombre": "MARÍA SOFÍA RESTREPO OSORIO",
-     "correo": "msrestrepo@elpoli.edu.co"
+        "dependencia": "bienestar_institucional_e_interaccion_social",
+        "cargo": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "nombre": "BLOQUE P40 OFICINA 504",
+        "correo": "bienestar@elpoli.edu.co"
     },
     {
-     "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "HERNÁN WILMAR SALDARRIAGA",
-     "correo": "hwsaldarriaga@elpoli.edu.co"
+        "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "cargo": "Directora",
+        "nombre": "BEATRIZ ELENA VILLA CANO",
+        "extension": "",
+        "correo": "bevilla@elpoli.edu.co"
     },
     {
-     "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
-     "cargo": "AUXILIAR ÁREA DE SALUD",
-     "nombre": "CLAUDIA PATRICIA GONZÁLEZ",
-     "correo": "cpgonzalez@elpoli.edu.co"
+        "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "cargo": "Profesional Universitario",
+        "nombre": "NATALIA LUCÍA CANCHILA ESPINOSA",
+        "extension": "",
+        "correo": "nlcanchila@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENESTAR HUMANO Y SOCIAL",
-     "cargo": "COORDINACIÓN DE BIENESTAR HUMANO Y SOCIAL",
-     "nombre": "BLOQUE P40 OFICINA 504",
-     "extension": 283,
-     "correo": "bienhumano@elpoli.edu.co"
+        "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "ASTRID LORENA GUTIÉRREZ PALACIO",
+        "extension": "",
+        "correo": "algutierrez@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENESTAR HUMANO Y SOCIAL",
-     "cargo": "PROFESIONAL ESPECIALIZADA (E)",
-     "nombre": "MARÍA JESÚS GIL PÉREZ",
-     "correo": "mjgil@elpoli.edu.co"
+        "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "cargo": "Técnico Administrativo",
+        "nombre": "MARÍA SOFÍA RESTREPO OSORIO",
+        "extension": "",
+        "correo": "msrestrepo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENESTAR HUMANO Y SOCIAL",
-     "cargo": "MÉDICA",
-     "nombre": "ANA LUCIA LATORRE MORA",
-     "correo": "allatorre@elpoli.edu.co"
+        "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "HERNÁN WILMAR SALDARRIAGA",
+        "extension": "",
+        "correo": "hwsaldarriaga@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENESTAR HUMANO Y SOCIAL",
-     "cargo": "MÉDICO",
-     "nombre": "CARLOS MARIO MUÑOZ TRUJILLO"
+        "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "cargo": "Auxiliar Área de Salud",
+        "nombre": "CLAUDIA PATRICIA GONZÁLEZ",
+        "extension": "",
+        "correo": "cpgonzalez@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENESTAR HUMANO Y SOCIAL",
-     "cargo": "ODONTÓLOGO",
-     "nombre": "JORGE MARIO MORENO RESTREPO",
-     "correo": "jmmoreno@elpoli.edu.co"
+        "dependencia": "coordinacion_de_bienestar_humano_social",
+        "cargo": "COORDINACIÓN DE BIENESTAR HUMANO Y SOCIAL",
+        "nombre": "BLOQUE P40 OFICINA 504",
+        "extension": 283,
+        "correo": "bienhumano@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENESTAR HUMANO Y SOCIAL",
-     "cargo": "ODONTÓLOGO",
-     "nombre": "LUIS EDUARDO LEAL SALAZAR",
-     "correo": "leleal@elpoli.edu.co"
+        "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "cargo": "Profesional Especializada (E)",
+        "nombre": "MARÍA JESÚS GIL PÉREZ",
+        "extension": "",
+        "correo": "mjgil@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
-     "cargo": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
-     "nombre": "BLOQUE P31 OFICINA 202",
-     "correo": "serviciosgenerales@elpoli.edu.co"
+        "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "cargo": "Médica",
+        "nombre": "ANA LUCIA LATORRE MORA",
+        "extension": "",
+        "correo": "allatorre@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
-     "cargo": "DIRECTOR",
-     "nombre": "ADRIANA PORTOCARRERO RENGIFO",
-     "extension": 139,
-     "correo": "aportocarrero@elpoli.edu.co"
+        "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "cargo": "Médico",
+        "nombre": "CARLOS MARIO MUÑOZ TRUJILLO",
+        "extension": "",
+        "correo": ""
     },
     {
-     "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
-     "cargo": "Profesional Universitario",
-     "nombre": "DANIELA GARCÍA CASTAÑO",
-     "correo": "dgarcia@elpoli.edu.co"
+        "dependencia": "BIENESTAR INSTITUCIONAL E INTERACCIÓN SOCIAL",
+        "cargo": "Odontólogo",
+        "nombre": "JORGE MARIO MORENO RESTREPO",
+        "extension": "",
+        "correo": "jmmoreno@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
-     "cargo": "Profesional Universitario",
-     "nombre": "CARLOS MARIO ESCOBAR VALDÉS",
-     "correo": "cmescobar@elpoli.edu.co"
+        "dependencia": "direccion_de_servicios_generales_y_mantenimiento",
+        "cargo": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
+        "nombre": "BLOQUE P31 OFICINA 202",
+        "correo": "serviciosgenerales@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "LUZ MIRIAM ISAZA CIFUENTES",
-     "correo": "lmisaza@elpoli.edu.co"
+        "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
+        "cargo": "DIRECTOR",
+        "nombre": "ADRIANA PORTOCARRERO RENGIFO",
+        "extension": 139,
+        "correo": "aportocarrero@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
-     "cargo": "TÉCNICA ADMINISTRATIVA",
-     "nombre": "AURA MARCELA MESA PULGARÍN",
-     "correo": "ammesa@elpoli.edu.co"
+        "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
+        "cargo": "Profesional Universitario",
+        "nombre": "DANIELA GARCÍA CASTAÑO",
+        "correo": "dgarcia@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
-     "cargo": "TÉCNICA ADMINISTRATIVA",
-     "nombre": "ADRIANA PATRICIA ARTEAGA BERRIO",
-     "correo": "aparteaga@elpoli.edu.co"
+        "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
+        "cargo": "Profesional Universitario",
+        "nombre": "CARLOS MARIO ESCOBAR VALDÉS",
+        "correo": "cmescobar@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "DAIRO ALBERTO LONDOÑO VÉLEZ",
-     "extension": 465,
-     "correo": "dalondono@elpoli.edu.co"
+        "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "LUZ MIRIAM ISAZA CIFUENTES",
+        "correo": "lmisaza@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "cargo": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "nombre": "BLOQUE P31 OFICINA 304",
-     "correo": "bienes@elpoli.edu.co"
+        "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
+        "cargo": "TÉCNICA ADMINISTRATIVA",
+        "nombre": "ADRIANA PATRICIA ARTEAGA BERRIO",
+        "correo": "aparteaga@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "cargo": "Profesional Especializado",
-     "extension": 264
+        "dependencia": "DIRECCION DE SERVICIOS GENERALES Y MANTENIMIENTO",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "DAIRO ALBERTO LONDOÑO VÉLEZ",
+        "extension": 465,
+        "correo": "dalondono@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "GUILLERMO ALONSO RUIZ VALLEJO",
-     "extension": 264,
-     "correo": "gavallejo@elpoli.edu.co"
+        "dependencia": "coordinacion_de_bienes_y_servicios",
+        "cargo": "COORDINACIÓN DE BIENES Y SERVICIOS",
+        "nombre": "BLOQUE P31 OFICINA 304",
+        "correo": "bienes@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "GEMAR DARÍO BEDOYA MARULANDA",
-     "extension": 198,
-     "correo": "gdbedoya@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
+        "cargo": "Profesional Especializado",
+        "extension": 264
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "JHON JAIRO ROZO LÓPEZ",
-     "extension": 285,
-     "correo": "jjrozo@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "GUILLERMO ALONSO RUIZ VALLEJO",
+        "extension": 264,
+        "correo": "gavallejo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "OSCAR DARÍO ZAPATA PIMIENTA",
-     "correo": "odzapata@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "GEMAR DARÍO BEDOYA MARULANDA",
+        "extension": 198,
+        "correo": "gdbedoya@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "JORGE ENRIQUE OSPINA VALENCIA",
-     "correo": "jeospina@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "JHON JAIRO ROZO LÓPEZ",
+        "extension": 285,
+        "correo": "jjrozo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "JUAN CARLOS JARAMILLO",
-     "correo": "jcjaramillo@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "OSCAR DARÍO ZAPATA PIMIENTA",
+        "correo": "odzapata@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "cargo": "Contratista",
-     "nombre": "JESÚS MARÍA RIVERA GÓMEZ"
+        "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "JORGE ENRIQUE OSPINA VALENCIA",
+        "correo": "jeospina@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
-     "cargo": "OPERARIO",
-     "nombre": "ERNESTO JARAMILLO ARANGO",
-     "extension": 376,
-     "correo": "ejaramilloa@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "JUAN CARLOS JARAMILLO",
+        "correo": "jcjaramillo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "cargo": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "nombre": "BLOQUE P13 OFICINA 210-A",
-     "correo": "infocor@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
+        "cargo": "Contratista",
+        "nombre": "JESÚS MARÍA RIVERA GÓMEZ"
     },
     {
-     "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "cargo": "Profesional Especializado",
-     "nombre": "HERNANDO DELGADO ROSAS",
-     "extension": 165,
-     "correo": "hdelgado@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE BIENES Y SERVICIOS",
+        "cargo": "OPERARIO",
+        "nombre": "ERNESTO JARAMILLO ARANGO",
+        "extension": 376,
+        "correo": "ejaramilloa@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "cargo": "AUXILIAR ADMINISTRATIVA",
-     "nombre": "MIRIAM SOCORRO GÓMEZ URREGO",
-     "extension": 197,
-     "correo": "msgomezu@elpoli.edu.co"
+        "dependencia": "coordinacion_de_informatica_corporativa",
+        "cargo": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
+        "nombre": "BLOQUE P13 OFICINA 210-A",
+        "correo": "infocor@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "cargo": "Técnico Administrativo",
-     "nombre": "LIDA MARÍA ANTONIA TORO MEJÍA",
-     "extension": 295,
-     "correo": "lmtoro@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
+        "cargo": "Profesional Especializado",
+        "nombre": "HERNANDO DELGADO ROSAS",
+        "extension": 165,
+        "correo": "hdelgado@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "cargo": "Profesional Universitario",
-     "nombre": "MIRIAN FANNY PULGARÍN PINEDA",
-     "extension": 422,
-     "correo": "mfpulgarin@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
+        "cargo": "Técnico Administrativo",
+        "nombre": "LIDA MARÍA ANTONIA TORO MEJÍA",
+        "extension": 295,
+        "correo": "lmtoro@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "cargo": "Profesional Universitario",
-     "nombre": "JAIME AUGUSTO RÚA PELÁEZ",
-     "extension": 175,
-     "correo": "jarua@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
+        "cargo": "Profesional Universitario",
+        "nombre": "MIRIAN FANNY PULGARÍN PINEDA",
+        "extension": 422,
+        "correo": "mfpulgarin@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "cargo": "Profesional Universitario",
-     "nombre": "EINER JARAMILLO BONILLA",
-     "extension": 255,
-     "correo": "ejaramillo@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
+        "cargo": "Profesional Universitario",
+        "nombre": "JAIME AUGUSTO RÚA PELÁEZ",
+        "extension": 175,
+        "correo": "jarua@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "cargo": "Profesional Universitario",
-     "nombre": "LUIS FERNANDO GARCÍA MUÑOZ",
-     "extension": 413,
-     "correo": "lfgarcia@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
+        "cargo": "Profesional Universitario",
+        "nombre": "EINER JARAMILLO BONILLA",
+        "extension": 255,
+        "correo": "ejaramillo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "cargo": "Profesional Universitario",
-     "nombre": "GLORIA YANED TOBÓN CATAÑO",
-     "extension": 347,
-     "correo": "gytobon@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
+        "cargo": "Profesional Universitario",
+        "nombre": "LUIS FERNANDO GARCÍA MUÑOZ",
+        "extension": 413,
+        "correo": "lfgarcia@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
-     "cargo": "Profesional Universitario",
-     "nombre": "MARIO ALEXANDER GARCÍA VILLADA",
-     "extension": 447,
-     "correo": "magarcia@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
+        "cargo": "Profesional Universitario",
+        "nombre": "GLORIA YANED TOBÓN CATAÑO",
+        "extension": 347,
+        "correo": "gytobon@elpoli.edu.co"
     },
     {
-     "dependencia": "MESA DE AYUDA",
-     "cargo": "MESA DE AYUDA",
-     "extension": 343,
-     "correo": "soporte@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE INFORMÁTICA CORPORATIVA",
+        "cargo": "Profesional Universitario",
+        "nombre": "MARIO ALEXANDER GARCÍA VILLADA",
+        "extension": 447,
+        "correo": "magarcia@elpoli.edu.co"
     },
     {
-     "dependencia": "MESA DE AYUDA",
-     "cargo": "Contratista SOPORTE TÉCNICO",
-     "nombre": "LEONARDO ACOSTA JAIK",
-     "extension": 343,
-     "correo": "soporte@elpoli.edu.co"
+        "dependencia": "MESA DE AYUDA",
+        "cargo": "MESA DE AYUDA",
+        "extension": 343,
+        "correo": "soporte@elpoli.edu.co"
     },
     {
-     "dependencia": "MESA DE AYUDA",
-     "cargo": "Contratista SOPORTE TÉCNICO",
-     "nombre": "JUAN DAVID DIAZ CARVAJAL",
-     "extension": 343,
-     "correo": "soporte@elpoli.edu.co"
+        "dependencia": "MESA DE AYUDA",
+        "cargo": "Contratista SOPORTE TÉCNICO",
+        "nombre": "LEONARDO ACOSTA JAIK",
+        "extension": 343,
+        "correo": "soporte@elpoli.edu.co"
     },
     {
-     "dependencia": "MESA DE AYUDA",
-     "cargo": "Contratista SOPORTE TÉCNICO",
-     "nombre": "EDWIN ALEXANDER AGUIRRE MONSALVE",
-     "extension": 343,
-     "correo": "soporte@elpoli.edu.co"
+        "dependencia": "MESA DE AYUDA",
+        "cargo": "Contratista SOPORTE TÉCNICO",
+        "nombre": "JUAN DAVID DIAZ CARVAJAL",
+        "extension": 343,
+        "correo": "soporte@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "VICERRECTORÍA DE extension",
-     "nombre": "BLOQUE P31 OFICINA 322",
-     "extension": "379 79 68",
-     "correo": "vextension@elpoli.edu.co"
+        "dependencia": "MESA DE AYUDA",
+        "cargo": "Contratista SOPORTE TÉCNICO",
+        "nombre": "EDWIN ALEXANDER AGUIRRE MONSALVE",
+        "extension": 343,
+        "correo": "soporte@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "Vicerrector",
-     "nombre": "RODRIGO ORLANDO OSORIO MONTOYA",
-     "extension": 168,
-     "correo": "roosorio@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "VICERRECTORÍA DE extension",
+        "nombre": "BLOQUE P31 OFICINA 322",
+        "extension": "379 79 68",
+        "correo": "vextension@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "SECRETARIA",
-     "nombre": "EURÍDICE TANGARIFE LOPERA",
-     "extension": 102,
-     "correo": "etangarifel@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "Vicerrector",
+        "nombre": "RODRIGO ORLANDO OSORIO MONTOYA",
+        "extension": 168,
+        "correo": "roosorio@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "TÉCNICA ADMINISTRATIVA",
-     "nombre": "SONIA MARÍA JIMÉNEZ GUTIÉRREZ",
-     "extension": 102,
-     "correo": "smjimenez@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "SECRETARIA",
+        "nombre": "EURÍDICE TANGARIFE LOPERA",
+        "extension": 102,
+        "correo": "etangarifel@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "Profesional Universitario",
-     "nombre": "RUBÉN DARÍO MAYA BEDOYA",
-     "extension": 102,
-     "correo": "rdmaya@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "TÉCNICA ADMINISTRATIVA",
+        "nombre": "SONIA MARÍA JIMÉNEZ GUTIÉRREZ",
+        "extension": 102,
+        "correo": "smjimenez@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "SOR EUGENIA HURTADO GIRALDO",
-     "extension": 102,
-     "correo": "sehurtado@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "Profesional Universitario",
+        "nombre": "RUBÉN DARÍO MAYA BEDOYA",
+        "extension": 102,
+        "correo": "rdmaya@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "Contratista",
-     "nombre": "RAMIRO ALEXANDER TUBERQUIA GÓMEZ",
-     "extension": 102,
-     "correo": "ramirotuberquia@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "SOR EUGENIA HURTADO GIRALDO",
+        "extension": 102,
+        "correo": "sehurtado@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "Contratista",
-     "nombre": "EMANUEL MARTÍNEZ SOSA",
-     "extension": 102,
-     "correo": "emanuelmartinez@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "Contratista",
+        "nombre": "RAMIRO ALEXANDER TUBERQUIA GÓMEZ",
+        "extension": 102,
+        "correo": "ramirotuberquia@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "Contratista",
-     "nombre": "LINA MARCELA CARVAJAL GÓMEZ",
-     "extension": 102,
-     "correo": "linacarvajal@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "Contratista",
+        "nombre": "EMANUEL MARTÍNEZ SOSA",
+        "extension": 102,
+        "correo": "emanuelmartinez@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "Contratista",
-     "nombre": "MARÍA CAMILA RESTREPO MAYO",
-     "extension": 102,
-     "correo": "mariarestrepo@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "Contratista",
+        "nombre": "LINA MARCELA CARVAJAL GÓMEZ",
+        "extension": 102,
+        "correo": "linacarvajal@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "Contratista",
-     "nombre": "HECTOR DARIO PÉREZ PIEDRAHITA",
-     "extension": 102,
-     "correo": "hectorperez@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "Contratista",
+        "nombre": "MARÍA CAMILA RESTREPO MAYO",
+        "extension": 102,
+        "correo": "mariarestrepo@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE extension",
-     "cargo": "Contratista",
-     "nombre": "GIAN MAZO CASTRO",
-     "extension": 102,
-     "correo": "gianmazo@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "Contratista",
+        "nombre": "HECTOR DARIO PÉREZ PIEDRAHITA",
+        "extension": 102,
+        "correo": "hectorperez@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE FOMENTO EMPRESARIAL",
-     "cargo": "COORDINACIÓN DE FOMENTO EMPRESARIAL",
-     "nombre": "BLOQUE P31 OFICINA 322",
-     "extension": "319 73 54",
-     "correo": "fomentoe@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE extension",
+        "cargo": "Contratista",
+        "nombre": "GIAN MAZO CASTRO",
+        "extension": 102,
+        "correo": "gianmazo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE FOMENTO EMPRESARIAL",
-     "cargo": "Profesional Especializado",
-     "extension": 154
+        "dependencia": "COORDINACIÓN DE FOMENTO EMPRESARIAL",
+        "cargo": "COORDINACIÓN DE FOMENTO EMPRESARIAL",
+        "nombre": "BLOQUE P31 OFICINA 322",
+        "extension": "319 73 54",
+        "correo": "fomentoe@elpoli.edu.co"
     },
     {
-     "dependencia": "educacion_continua",
-     "cargo": "EDUCACIÓN CONTINUA",
-     "nombre": "BLOQUE P31 OFICINA 335",
-     "extension": "319 79 51",
-     "correo": "educacioncontinua@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE FOMENTO EMPRESARIAL",
+        "cargo": "Profesional Especializado",
+        "extension": 154
+    },
+    {
+        "dependencia": "educacion_continua",
+        "cargo": "EDUCACIÓN CONTINUA",
+        "nombre": "BLOQUE P31 OFICINA 335",
+        "extension": "319 79 51",
+        "correo": "educacioncontinua@elpoli.edu.co"
     },
     {
         "dependencia": "EDUCACIÓN CONTINUA",
@@ -1144,572 +1166,565 @@
         "correo": "dfusme@elpoli.edu.co"
     },
     {
-     "dependencia": "EDUCACIÓN CONTINUA",
-     "cargo": "Contratista",
-     "nombre": "ANALIDA PATRICIA MORENO CASTAÑEDA",
-     "extension": 151,
-     "correo": "analidamoreno@elpoli.edu.co"
+        "dependencia": "EDUCACIÓN CONTINUA",
+        "cargo": "Contratista",
+        "nombre": "SUSANA ZAPATA VALENCIA",
+        "extension": 151,
+        "correo": "susanazapata@elpoli.edu.co"
     },
     {
-     "dependencia": "EDUCACIÓN CONTINUA",
-     "cargo": "Contratista",
-     "nombre": "MÓNICA ALEJANDRA GIL GUTIÉRREZ",
-     "extension": 151,
-     "correo": "monicagil@elpoli.edu.co"
+        "dependencia": "EDUCACIÓN CONTINUA",
+        "cargo": "Contratista",
+        "nombre": "DEISY CRISTINA MAZO MAZO",
+        "extension": 151,
+        "correo": "deisymazo@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA DE GRADUADOS ",
-     "cargo": "OFICINA DE GRADUADOS ",
-     "nombre": "BLOQUE P40 OFICINA 603",
-     "extension": "319 79 78",
-     "correo": "graduados@elpoli.edu.co"
+        "dependencia": "OFICINA DE GRADUADOS ",
+        "cargo": "OFICINA DE GRADUADOS ",
+        "nombre": "BLOQUE P40 OFICINA 603",
+        "extension": "319 79 78",
+        "correo": "graduados@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA DE GRADUADOS ",
-     "cargo": "Profesional Especializado",
-     "nombre": "LUCILA MARÍA JARAMILLO GÓMEZ",
-     "extension": 178,
-     "correo": "lmjaramillo@elpoli.edu.co"
+        "dependencia": "OFICINA DE GRADUADOS ",
+        "cargo": "Profesional Especializado",
+        "nombre": "LUCILA MARÍA JARAMILLO GÓMEZ",
+        "extension": 178,
+        "correo": "lmjaramillo@elpoli.edu.co"
     },
     {
-     "dependencia": "OFICINA DE GRADUADOS ",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "MARÍA WIFER CIFUENTES GALLEGO",
-     "extension": 178,
-     "correo": "mwcifuentes@elpoli.edu.co"
+        "dependencia": "OFICINA DE GRADUADOS ",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "MARÍA WIFER CIFUENTES GALLEGO",
+        "extension": 178,
+        "correo": "mwcifuentes@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
-     "cargo": "DIRECCIÓN DE FOMENTO CULTURAL",
-     "nombre": "BLOQUE P19 TERCER PISO",
-     "extension": "324 6589930",
-     "correo": "fcultural@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
+        "cargo": "DIRECCIÓN DE FOMENTO CULTURAL",
+        "nombre": "BLOQUE P19 TERCER PISO",
+        "extension": "324 6589930",
+        "correo": "fcultural@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
-     "cargo": "Directora",
-     "nombre": "AURA MARÍA VASCO OSPINA",
-     "extension": 325,
-     "correo": "amvasco@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
+        "cargo": "Directora",
+        "nombre": "AURA MARÍA VASCO OSPINA",
+        "extension": 325,
+        "correo": "amvasco@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
-     "cargo": "Profesional Universitario",
-     "nombre": "AMELIA MUÑOZ MURILLO",
-     "extension": "101-372",
-     "correo": "amunoz@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
+        "cargo": "Profesional Universitario",
+        "nombre": "AMELIA MUÑOZ MURILLO",
+        "extension": "101-372",
+        "correo": "amunoz@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "JAVIER HERNANDO ROJAS GALLEGO"
+        "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "JAVIER HERNANDO ROJAS GALLEGO"
     },
     {
-     "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "SANDRA PATRICIA CÓRDOBA CÓRDOBA",
-     "correo": "spcordoba@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "SANDRA PATRICIA CÓRDOBA CÓRDOBA",
+        "correo": "spcordoba@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "OLGA CECILIA CARDONA BERNAL",
-     "extension": 136,
-     "correo": "occardona@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "OLGA CECILIA CARDONA BERNAL",
+        "extension": 136,
+        "correo": "occardona@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "ROBERTO DE JESÚS MUÑOZ",
-     "correo": "rjmunoz@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE FOMENTO CULTURAL",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "ROBERTO DE JESÚS MUÑOZ",
+        "correo": "rjmunoz@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE COOPERACIÓN NACIONAL E INTERNACIONAL ",
-     "cargo": "DIRECCIÓN DE COOPERACIÓN NACIONAL E INTERNACIONAL ",
-     "nombre": "BLOQUE P31 OFICINA 323",
-     "extension": "319 79 59",
-     "correo": "cooperacion@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE COOPERACIÓN NACIONAL E INTERNACIONAL ",
+        "cargo": "DIRECCIÓN DE COOPERACIÓN NACIONAL E INTERNACIONAL ",
+        "nombre": "BLOQUE P31 OFICINA 323",
+        "extension": "319 79 59",
+        "correo": "cooperacion@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE COOPERACIÓN NACIONAL E INTERNACIONAL ",
-     "cargo": "DIRECTOR",
-     "nombre": "MAURICIO CARO DÍAZ",
-     "extension": 159,
-     "correo": "mcdiaz@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE COOPERACIÓN NACIONAL E INTERNACIONAL ",
+        "cargo": "DIRECTOR",
+        "nombre": "MAURICIO CARO DÍAZ",
+        "extension": 159,
+        "correo": "mcdiaz@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE COOPERACIÓN NACIONAL E INTERNACIONAL ",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "EDNALYTH LÓPEZ MONTOYA",
-     "extension": 159,
-     "correo": "elopez@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE COOPERACIÓN NACIONAL E INTERNACIONAL ",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "EDNALYTH LÓPEZ MONTOYA",
+        "extension": 159,
+        "correo": "elopez@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE COOPERACIÓN NACIONAL E INTERNACIONAL ",
-     "cargo": "Contratista",
-     "nombre": "MARIANA SÁNCHEZ SALAZAR",
-     "extension": 159,
-     "correo": "marianasanchez@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE COOPERACIÓN NACIONAL E INTERNACIONAL ",
+        "cargo": "Contratista",
+        "nombre": "MARIANA SÁNCHEZ SALAZAR",
+        "extension": 159,
+        "correo": "marianasanchez@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "cargo": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "nombre": "BLOQUE P31 OFICINA 320",
-     "correo": "proespe@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "cargo": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "nombre": "BLOQUE P31 OFICINA 320",
+        "correo": "proespe@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "cargo": "Directora",
-     "nombre": "LEIDY CAROLINA TOLOZA RIVERA",
-     "extension": 339,
-     "correo": "leidytoloza@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "cargo": "Directora",
+        "nombre": "LEIDY CAROLINA TOLOZA RIVERA",
+        "extension": 339,
+        "correo": "leidytoloza@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "cargo": "Profesional Universitario",
-     "nombre": "MARTA PATRICIA CÁRDENAS GÓMEZ",
-     "extension": 113,
-     "correo": "martacardenas@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "cargo": "Profesional Universitario",
+        "nombre": "MARTA PATRICIA CÁRDENAS GÓMEZ",
+        "extension": 113,
+        "correo": "martacardenas@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "ALEJANDRA MORALES AGUIRRE",
-     "extension": 113
+        "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "ALEJANDRA MORALES AGUIRRE",
+        "extension": 113
     },
     {
-     "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "cargo": "Contratista",
-     "nombre": "SANDRA LILIANA VASQUEZ OSORIO",
-     "extension": 113,
-     "correo": "sandravasquez@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "cargo": "Contratista",
+        "nombre": "SANDRA LILIANA VASQUEZ OSORIO",
+        "extension": 113,
+        "correo": "sandravasquez@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "cargo": "Contratista",
-     "nombre": "LUIS OVIDIO GAVIRIA PUERTA",
-     "extension": 113,
-     "correo": "luis_gaviria92103@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "cargo": "Contratista",
+        "nombre": "LUIS OVIDIO GAVIRIA PUERTA",
+        "extension": 113,
+        "correo": "luis_gaviria92103@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "cargo": "Contratista",
-     "nombre": "MÓNICA YANETH BETANCUR LÓPEZ",
-     "extension": 113,
-     "correo": "monicaybetancur@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "cargo": "Contratista",
+        "nombre": "MÓNICA YANETH BETANCUR LÓPEZ",
+        "extension": 113,
+        "correo": "monicaybetancur@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "cargo": "Contratista",
-     "nombre": "DIANA CRISTINA ÁLVAREZ TABARES",
-     "extension": 113,
-     "correo": "cproyectos01@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "cargo": "Contratista",
+        "nombre": "DIANA CRISTINA ÁLVAREZ TABARES",
+        "extension": 113,
+        "correo": "cproyectos01@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "cargo": "Contratista",
-     "nombre": "JOSE LUIS VARGAS RAMÍREZ",
-     "extension": 113,
-     "correo": "josevargas@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "cargo": "Contratista",
+        "nombre": "JOSE LUIS VARGAS RAMÍREZ",
+        "extension": 113,
+        "correo": "josevargas@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
-     "cargo": "Contratista",
-     "nombre": "ANDRÉS ROJAS GÓMEZ",
-     "extension": 113,
-     "correo": "andres_rojas41201@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE PROGRAMAS Y PROYECTOS ESPECIALES",
+        "cargo": "Contratista",
+        "nombre": "ANDRÉS ROJAS GÓMEZ",
+        "extension": 113,
+        "correo": "andres_rojas41201@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE DOCENCIA E INVESTIGACIÓN",
-     "cargo": "VICERRECTORÍA DE DOCENCIA E INVESTIGACIÓN",
-     "nombre": "BLOQUE P31 OFICINA 311",
-     "extension": "302 4463455",
-     "correo": "vdocencia@elpoli.edu.co"
+        "dependencia": "vicerrectoria_de_docencia_e_investigacion",
+        "cargo": "VICERRECTORÍA DE DOCENCIA E INVESTIGACIÓN",
+        "nombre": "BLOQUE P31 OFICINA 311",
+        "extension": "302 4463455",
+        "correo": "vdocencia@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE DOCENCIA E INVESTIGACIÓN",
-     "cargo": "Vicerrector",
-     "nombre": "JORGE ELIÉCER CÓRDOBA MAQUILÓN",
-     "extension": 142,
-     "correo": "jecordoba@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE DOCENCIA E INVESTIGACIÓN",
+        "cargo": "Vicerrector",
+        "nombre": "JORGE ELIÉCER CÓRDOBA MAQUILÓN",
+        "extension": 142,
+        "correo": "jecordoba@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE DOCENCIA E INVESTIGACIÓN",
-     "cargo": "SECRETARIA EJECUTIVA",
-     "nombre": "MARÍA FAUSTINA RIVAS IBARGUEN",
-     "extension": 135,
-     "correo": "mfrivas@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE DOCENCIA E INVESTIGACIÓN",
+        "cargo": "Secretaria Ejecutiva",
+        "nombre": "MARÍA FAUSTINA RIVAS IBARGUEN",
+        "extension": 135,
+        "correo": "mfrivas@elpoli.edu.co"
     },
     {
-     "dependencia": "VICERRECTORÍA DE DOCENCIA E INVESTIGACIÓN",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "LUZ ADRIANA CÓRDOBA CABALLERO",
-     "extension": 135,
-     "correo": "lacordoba@elpoli.edu.co"
+        "dependencia": "VICERRECTORÍA DE DOCENCIA E INVESTIGACIÓN",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "LUZ ADRIANA CÓRDOBA CABALLERO",
+        "extension": 135,
+        "correo": "lacordoba@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "nombre": "BLOQUE P31 OFICINA 313",
-     "extension": "324 4685191",
-     "correo": "autoevaluacion@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "nombre": "BLOQUE P31 OFICINA 313",
+        "extension": "324 4685191",
+        "correo": "autoevaluacion@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "EQUIPO DE ASEGURAMIENTO DE LA\nCALIDAD DE PROGRAMAS ACADÉMICOS",
-     "correo": "autoevaluacion@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "EQUIPO DE ASEGURAMIENTO DE LA\nCALIDAD DE PROGRAMAS ACADÉMICOS",
+        "correo": "autoevaluacion@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "Profesional Especializado",
-     "nombre": "JUAN CAMILO PÉREZ ARIAS",
-     "extension": 244,
-     "correo": "jcperez@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "Profesional Especializado",
+        "nombre": "JUAN CAMILO PÉREZ ARIAS",
+        "extension": 244,
+        "correo": "jcperez@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "LILIANA MARÍA ESCOBAR",
-     "extension": 243,
-     "correo": "lmescobar@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "LILIANA MARÍA ESCOBAR",
+        "extension": 243,
+        "correo": "lmescobar@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "Contratista",
-     "nombre": "SILVANA TAMAYO TAMAYO",
-     "correo": "silvanatamayo@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "Contratista",
+        "nombre": "SILVANA TAMAYO TAMAYO",
+        "correo": "silvanatamayo@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "Contratista",
-     "nombre": "SULEIMA ARISTIZABAL ZULUAGA",
-     "correo": "suleimaaristizabal@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "Contratista",
+        "nombre": "SULEIMA ARISTIZABAL ZULUAGA",
+        "correo": "suleimaaristizabal@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "Contratista",
-     "nombre": "NAIRA SÁNCHEZ HENAO",
-     "correo": "nairasanchez@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "Contratista",
+        "nombre": "NAIRA SÁNCHEZ HENAO",
+        "correo": "nairasanchez@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "Contratista",
-     "nombre": "CARMEN ELISA ROLDÁN ARISTIZABAL",
-     "correo": "carmenroldan@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "Contratista",
+        "nombre": "CARMEN ELISA ROLDÁN ARISTIZABAL",
+        "correo": "carmenroldan@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "EQUIPO DE ASEGURAMIENTO DE LA\nCALIDAD INSTITUCIONAL",
-     "correo": "acreditacion@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "EQUIPO DE ASEGURAMIENTO DE LA\nCALIDAD INSTITUCIONAL",
+        "correo": "acreditacion@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "Profesional Especializado",
-     "nombre": "LUZ MARÍA BETANCUR ACOSTA",
-     "extension": 244,
-     "correo": "lmbetancur@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "Profesional Especializado",
+        "nombre": "LUZ MARÍA BETANCUR ACOSTA",
+        "extension": 244,
+        "correo": "lmbetancur@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "Contratista",
-     "nombre": "NORA INÉS LÓPEZ OSPINA",
-     "correo": "nilopez@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "Contratista",
+        "nombre": "NORA INÉS LÓPEZ OSPINA",
+        "correo": "nilopez@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
-     "cargo": "Contratista",
-     "nombre": "ELIZABETH DIAZ RESTREPO",
-     "correo": "elizabethdiaz@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE AUTOEVALUACIÓN INSTITUCIONAL",
+        "cargo": "Contratista",
+        "nombre": "ELIZABETH DIAZ RESTREPO",
+        "correo": "elizabethdiaz@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE NUEVAS TECNOLOGÍAS",
-     "cargo": "COORDINACIÓN DE NUEVAS TECNOLOGÍAS",
-     "nombre": "BLOQUE P40 607",
-     "correo": "polivirtual@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE NUEVAS TECNOLOGÍAS",
+        "cargo": "COORDINACIÓN DE NUEVAS TECNOLOGÍAS",
+        "nombre": "BLOQUE P40 607",
+        "correo": "polivirtual@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACIÓN DE NUEVAS TECNOLOGÍAS",
-     "cargo": "Profesional Especializado",
-     "nombre": "JOSÉ JAVIER RODRÍGUEZ HOYOS",
-     "correo": "jjrodriguezh@elpoli.edu.co"
+        "dependencia": "COORDINACIÓN DE NUEVAS TECNOLOGÍAS",
+        "cargo": "Profesional Especializado",
+        "nombre": "JOSÉ JAVIER RODRÍGUEZ HOYOS",
+        "correo": "jjrodriguezh@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "nombre": "BLOQUE P31 OFICINA 103",
-     "correo": "admisiones@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "nombre": "BLOQUE P31 OFICINA 103",
+        "correo": "admisiones@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "Profesional Especializado",
-     "nombre": "JAIME ALEJANDRO MONTOYA BRAND",
-     "extension": 326,
-     "correo": "jamontoya@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "Profesional Especializado",
+        "nombre": "JAIME ALEJANDRO MONTOYA BRAND",
+        "extension": 326,
+        "correo": "jamontoya@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "EDITH SILVANA URREGO LEZCANO",
-     "extension": 143,
-     "correo": "esurrego@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "EDITH SILVANA URREGO LEZCANO",
+        "extension": 143,
+        "correo": "esurrego@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "SANDRA SIRLLEY RÚA GAVIRIA",
-     "correo": "sandrarua@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "SANDRA SIRLLEY RÚA GAVIRIA",
+        "correo": "sandrarua@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "PILI MARITZA MOLINA AGUDELO",
-     "extension": 143,
-     "correo": "pmmolina@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "PILI MARITZA MOLINA AGUDELO",
+        "extension": 143,
+        "correo": "pmmolina@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "Profesional Universitario",
-     "nombre": "CARLOS ENRIQUE NICOLÁS MONSALVE PÉREZ",
-     "extension": 366,
-     "correo": "cenmonsalve@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "Profesional Universitario",
+        "nombre": "CARLOS ENRIQUE NICOLÁS MONSALVE PÉREZ",
+        "extension": 366,
+        "correo": "cenmonsalve@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "Profesional Universitario",
-     "nombre": "JUAN BAYRON OSORIO ATEHORTUA",
-     "extension": 366,
-     "correo": "jbosorio@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "Profesional Universitario",
+        "nombre": "JUAN BAYRON OSORIO ATEHORTUA",
+        "extension": 366,
+        "correo": "jbosorio@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "Profesional Universitario",
-     "nombre": "ANA MARÍA CASTRILLÓN BENJUMEA",
-     "extension": 366,
-     "correo": "amcastrillon@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "Profesional Universitario",
+        "nombre": "ANA MARÍA CASTRILLÓN BENJUMEA",
+        "extension": 366,
+        "correo": "amcastrillon@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "GLORIA PATRICIA ACOSTA ACEVEDO",
-     "correo": "gloriaacosta@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "GLORIA PATRICIA ACOSTA ACEVEDO",
+        "correo": "gloriaacosta@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "Auxiliar de Servicios Generales",
-     "nombre": "MARÍA OFELIA SERNA CORREA",
-     "correo": "moserna@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "Auxiliar de Servicios Generales",
+        "nombre": "MARÍA OFELIA SERNA CORREA",
+        "correo": "moserna@elpoli.edu.co"
     },
     {
-     "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
-     "cargo": "Contratista",
-     "nombre": "CARLOS ANDRÉS DOMÍNGUEZ",
-     "extension": 366,
-     "correo": "programacionacademica@elpoli.edu.co"
+        "dependencia": "COORDINACION DE ADMISIONES Y PROGRAMACIÓN ACADÉMICA",
+        "cargo": "Contratista",
+        "nombre": "CARLOS ANDRÉS DOMÍNGUEZ",
+        "extension": 366,
+        "correo": "programacionacademica@elpoli.edu.co"
     },
     {
-     "dependencia": "direccion_de_investigacion_y_posgrados",
-     "cargo": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "nombre": "BLOQUE P36 OFICINA 202",
-     "correo": "investigaf@elpoli.edu.co"
+        "dependencia": "direccion_de_investigacion_y_posgrados",
+        "cargo": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "nombre": "BLOQUE P36 OFICINA 202",
+        "correo": "investigaf@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "DIRECTOR",
-     "nombre": "ROBINSON OSORIO HERNÁNDEZ",
-     "extension": 423,
-     "correo": "rosorio@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Directora",
+        "nombre": "ISABEL CRISTINA CANO RAMÍREZ",
+        "extension": 423,
+        "correo": "isabelcanor@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "LUZ DARY RESTREPO VÉLEZ",
-     "extension": 108,
-     "correo": "ldrestrepo@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "LUZ DARY RESTREPO VÉLEZ",
+        "extension": 108,
+        "correo": "ldrestrepo@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "ISABEL MACEA BUSTAMANTE",
-     "extension": 453,
-     "correo": "imacea@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "ISABEL MACEA BUSTAMANTE",
+        "extension": 453,
+        "correo": "imacea@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Profesional Especializado",
-     "nombre": "JAIRO HERNÁN MUÑOZ HERNÁNDEZ ",
-     "extension": 181,
-     "correo": "jhmunoz@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Profesional Especializado",
+        "nombre": "JAIRO HERNÁN MUÑOZ HERNÁNDEZ ",
+        "extension": 181,
+        "correo": "jhmunoz@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Profesional Universitario",
-     "nombre": "OSCAR ACEVEDO VILLA",
-     "extension": 108,
-     "correo": "oacevedo@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Profesional Universitario",
+        "nombre": "OSCAR ACEVEDO VILLA",
+        "extension": 108,
+        "correo": "oacevedo@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Profesional Universitario",
-     "nombre": "LUZMAN ALONSO PETRO SALGADO",
-     "extension": 108,
-     "correo": "lapetro@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Profesional Universitario",
+        "nombre": "LUZMAN ALONSO PETRO SALGADO",
+        "extension": 108,
+        "correo": "lapetro@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Contratista",
-     "nombre": "LUZ ANGELA GIRALDO ACOSTA",
-     "extension": 148,
-     "correo": "lagiraldo@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Contratista",
+        "nombre": "LUZ ANGELA GIRALDO ACOSTA",
+        "extension": 148,
+        "correo": "lagiraldo@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Contratista",
-     "nombre": "LORENA RUIZ GALLEGO",
-     "extension": 453,
-     "correo": "lorenaruizg@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Contratista",
+        "nombre": "LORENA RUIZ GALLEGO",
+        "extension": 453,
+        "correo": "lorenaruizg@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Contratista",
-     "nombre": "SANDRA MILENA ARIAS TORRES",
-     "extension": 453,
-     "correo": ""
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Contratista",
+        "nombre": "SANDRA MILENA ARIAS TORRES",
+        "extension": 453,
+        "correo": "sandraarias@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Contratista",
-     "nombre": "LINA MARÍA DÍAZ BLANDÓN",
-     "extension": 423,
-     "correo": "linadiaz@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Contratista",
+        "nombre": "LINA MARÍA DÍAZ BLANDÓN",
+        "extension": 423,
+        "correo": "linadiaz@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Contratista",
-     "nombre": "JHON EDISON COLORADO FLÓREZ",
-     "extension": 108,
-     "correo": "jhoncolorado@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Contratista",
+        "nombre": "JHON EDISON COLORADO FLÓREZ",
+        "extension": 108,
+        "correo": "jhoncolorado@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
-     "cargo": "Contratista",
-     "nombre": "NATALIA RIVERA VÁSQUEZ",
-     "extension": 108,
-     "correo": ""
+        "dependencia": "DIRECCIÓN DE INVESTIGACIÓN Y POSGRADOS",
+        "cargo": "Contratista",
+        "nombre": "NATALIA RIVERA VÁSQUEZ",
+        "extension": 108,
+        "correo": "nataliarivera@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GRANJAS Y LABORATORIOS ",
-     "cargo": "DIRECCIÓN DE GRANJAS Y LABORATORIOS ",
-     "nombre": "BLOQUE P38 OFICINA 116",
-     "extension": "319 79 93",
-     "correo": "granjas@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GRANJAS Y LABORATORIOS ",
+        "cargo": "DIRECCIÓN DE GRANJAS Y LABORATORIOS ",
+        "nombre": "BLOQUE P38 OFICINA 116",
+        "extension": "319 79 93",
+        "correo": "granjas@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GRANJAS Y LABORATORIOS ",
-     "cargo": "DIRECTOR",
-     "nombre": "CESAR IVÁN NAVARRO CRIADO",
-     "extension": 193,
-     "correo": "cinavarro@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GRANJAS Y LABORATORIOS ",
+        "cargo": "DIRECTOR",
+        "nombre": "CESAR IVÁN NAVARRO CRIADO",
+        "extension": 193,
+        "correo": "cinavarro@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GRANJAS Y LABORATORIOS ",
-     "cargo": "Profesional Universitario",
-     "nombre": "DIANA MARCELA CAÑAVERAL RESTREPO",
-     "extension": 193,
-     "correo": "dmcanaveral@elpoli.edu.co"
+        "dependencia": "DIRECCIÓN DE GRANJAS Y LABORATORIOS ",
+        "cargo": "Profesional Universitario",
+        "nombre": "DIANA MARCELA CAÑAVERAL RESTREPO",
+        "extension": 193,
+        "correo": "dmcanaveral@elpoli.edu.co"
     },
     {
-     "dependencia": "DIRECCIÓN DE GRANJAS Y LABORATORIOS ",
-     "cargo": "OPERARIA",
-     "nombre": "VERÓNICA MARCELA CALDERÓN BEDOYA",
-     "extension": 193
+        "dependencia": "DIRECCIÓN DE GRANJAS Y LABORATORIOS ",
+        "cargo": "OPERARIA",
+        "nombre": "VERÓNICA MARCELA CALDERÓN BEDOYA",
+        "extension": 193
     },
     {
-     "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
-     "cargo": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
-     "extension": "548 20 15",
-     "correo": "granjas@elpoli.edu.co"
+        "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
+        "cargo": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
+        "extension": "548 20 15",
+        "correo": "granjas@elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
-     "cargo": "Profesional Especializado",
-     "nombre": "WILLIAM ALONSO BERRÍO CATAÑO",
-     "extension": "547 20 15",
-     "correo": "waberrio@elpoli.edu.co"
+        "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "LUIS ALBERTO HIGINIO ÁLZATE",
+        "extension": "547 20 15",
+        "correo": "lahiginio@elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "LUIS ALBERTO HIGINIO ÁLZATE",
-     "extension": "547 20 15",
-     "correo": "lahiginio@elpoli.edu.co"
+        "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
+        "cargo": "Técnico Administrativo",
+        "nombre": "ANDRES FELIPE VELÁSQUEZ ARBOLEDA",
+        "extension": 193,
+        "correo": "afvelasquez@elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
-     "cargo": "Técnico Administrativo",
-     "nombre": "ANDRES FELIPE VELÁSQUEZ ARBOLEDA",
-     "extension": 193,
-     "correo": "afvelasquez@elpoli.edu.co"
+        "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
+        "cargo": "OPERARIO",
+        "nombre": "GERARDO DE JESÚS CARDONA VILLEGAS",
+        "extension": "548 20 15",
+        "correo": "gcardona@elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
-     "cargo": "OPERARIO",
-     "nombre": "GERARDO DE JESÚS CARDONA VILLEGAS",
-     "extension": "548 20 15",
-     "correo": "gcardona@elpoli.edu.co"
+        "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
+        "cargo": "OPERARIO",
+        "nombre": "LUIS ENRIQUE RODRÍGUEZ RESTREPO",
+        "extension": "548 20 15",
+        "correo": "lerodriguez@elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
-     "cargo": "OPERARIO",
-     "nombre": "LUIS ENRIQUE RODRÍGUEZ RESTREPO",
-     "extension": "548 20 15",
-     "correo": "lerodriguez@elpoli.edu.co"
+        "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
+        "cargo": "OPERARIO",
+        "nombre": "OSCAR ORLANDO DUQUE FLOREZ",
+        "extension": "548 20 15",
+        "correo": "ooduque @elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
-     "cargo": "OPERARIO",
-     "nombre": "OSCAR ORLANDO DUQUE FLOREZ",
-     "extension": "548 20 15",
-     "correo": "ooduque @elpoli.edu.co"
+        "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
+        "cargo": "OPERARIO",
+        "nombre": "DANIEL DE JESÚS LÓPEZ OSORIO",
+        "extension": "548 20 15",
+        "correo": "djlopez@elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
-     "cargo": "OPERARIO",
-     "nombre": "DANIEL DE JESÚS LÓPEZ OSORIO",
-     "extension": "548 20 15",
-     "correo": "djlopez@elpoli.edu.co"
+        "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
+        "cargo": "OPERARIO",
+        "nombre": "OMAR DE JESÚS VÁSQUEZ HEHAO",
+        "extension": "548 20 15",
+        "correo": "ojvasquez@elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA MARINILLA \"ROMÁN GÓMEZ GÓMEZ\"",
-     "cargo": "OPERARIO",
-     "nombre": "OMAR DE JESÚS VÁSQUEZ HEHAO",
-     "extension": "548 20 15",
-     "correo": "ojvasquez@elpoli.edu.co"
+        "dependencia": "GRANJA SAN JERÓNIMO \"JOHN JAIRO GONZÁLEZ TORRES\"",
+        "cargo": "GRANJA SAN JERÓNIMO \"JOHN JAIRO GONZÁLEZ TORRES\"",
+        "extension": "858 25 55",
+        "correo": "granjas@elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA SAN JERÓNIMO \"JOHN JAIRO GONZÁLEZ TORRES\"",
-     "cargo": "GRANJA SAN JERÓNIMO \"JOHN JAIRO GONZÁLEZ TORRES\"",
-     "extension": "858 25 55",
-     "correo": "granjas@elpoli.edu.co"
+        "dependencia": "GRANJA SAN JERÓNIMO \"JOHN JAIRO GONZÁLEZ TORRES\"",
+        "cargo": "Profesional Especializado",
+        "nombre": "ANGILBERTO VERGARA MORALES",
+        "extension": "860 25 55",
+        "correo": "angilbertovergara@elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA SAN JERÓNIMO \"JOHN JAIRO GONZÁLEZ TORRES\"",
-     "cargo": "Profesional Especializado",
-     "nombre": "ANGILBERTO VERGARA MORALES",
-     "extension": "860 25 55",
-     "correo": "angilbertovergara@elpoli.edu.co"
+        "dependencia": "GRANJA SAN JERÓNIMO \"JOHN JAIRO GONZÁLEZ TORRES\"",
+        "cargo": "Auxiliar Administrativo",
+        "nombre": "SANTIAGO GALLEGO VIVARES",
+        "extension": "860 25 55",
+        "correo": "sgallego@elpoli.edu.co"
     },
     {
-     "dependencia": "GRANJA SAN JERÓNIMO \"JOHN JAIRO GONZÁLEZ TORRES\"",
-     "cargo": "Auxiliar Administrativo",
-     "nombre": "SANTIAGO GALLEGO VIVARES",
-     "extension": "860 25 55",
-     "correo": "sgallego@elpoli.edu.co"
-    },
-    {
-     "dependencia": "GRANJA SAN JERÓNIMO \"JOHN JAIRO GONZÁLEZ TORRES\"",
-     "cargo": "OPERARIO",
-     "nombre": "JORGE ELIECER RODRÍGUEZ ROJAS",
-     "extension": "861 25 55",
-     "correo": "jerodriguez@elpoli.edu.co"
+        "dependencia": "GRANJA SAN JERÓNIMO \"JOHN JAIRO GONZÁLEZ TORRES\"",
+        "cargo": "OPERARIO",
+        "nombre": "JORGE ELIECER RODRÍGUEZ ROJAS",
+        "extension": "861 25 55",
+        "correo": "jerodriguez@elpoli.edu.co"
     }
-   ]
+]
